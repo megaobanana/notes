@@ -1,0 +1,1 @@
+[TLP：一个可以延长 Linux 笔记本电池寿命的高级电源管理工具 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/65546444)

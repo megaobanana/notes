@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Rotate Gaomon_tablet
+Exec=xsetwacom set 'GAOMON Gaomon Tablet stylus' rotate CCW
+Terminal=true
+Type=Application

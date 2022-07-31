@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Eject /dev/sda
+Exec=udisksctl power-off -b /dev/sda
+Terminal=true
+Type=Application
